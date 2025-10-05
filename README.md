@@ -1,1 +1,2 @@
-Sentinel Remake File downlaods and stuff. Check Misc folder for Discord link
+Resources for Sentinel Remake
+This is the newest rep for downloads.
