@@ -1,2 +1,2 @@
-Resources for Sentinel Remake
-This is the newest rep for downloads.
+Newest Rep for Sentinel Remake Downloads.
+IF you want to manually download a file then its gonna be here.
