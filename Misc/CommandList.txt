@@ -1,2 +1,0 @@
-[1] "--openprototypescripthub"
-[2] "Type Something To Search..."
