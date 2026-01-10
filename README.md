@@ -1,2 +1,2 @@
 Newest Rep for Sentinel Remake Downloads.
-IF you want to manually download a file then its gonna be here.
+IF you want to manually download a file then its gonna be here. Download UI From Official UI Repo
