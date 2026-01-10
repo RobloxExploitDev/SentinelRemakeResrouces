@@ -1,1 +1,1 @@
-https://www.dropbox.com/scl/fi/15uo6n9iybiyjih6zkchd/ICSharpCode.AvalonEdit.dll?rlkey=iw3shnspreui0lpfykdw2hawo&st=s86e4zgs&dl=1
+https://github.com/RobloxExploitDev/SentinelRemakeResrouces/raw/refs/heads/main/Files/MiscPlusDLLs/ICSharpCode.AvalonEdit.dll
