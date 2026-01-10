@@ -1,1 +1,1 @@
-https://www.dropbox.com/scl/fi/yjq4t2vnla0xuxzg9offg/Newtonsoft.Json.dll?rlkey=o1g8jibpbe2pudr4jqcxdq54z&st=sf43eb8b&dl=1
+https://github.com/RobloxExploitDev/SentinelRemakeResrouces/raw/refs/heads/main/Files/MiscPlusDLLs/Newtonsoft.Json.dll
