@@ -1,1 +1,1 @@
-https://www.dropbox.com/scl/fi/g23p3lj4g00v7f7k8meip/DiscordRPC.dll?rlkey=bolpz9ceyi2ng8j56cgxmo6op&st=5de1qtsx&dl=1
+https://github.com/RobloxExploitDev/SentinelRemakeResrouces/raw/refs/heads/main/Files/MiscPlusDLLs/DiscordRPC.dll
