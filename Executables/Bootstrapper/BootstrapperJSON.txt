@@ -1,1 +1,1 @@
-https://www.dropbox.com/scl/fi/euf09ne4umm8cxewpg84w/SentinelBootstrapper.runtimeconfig.json?rlkey=i582lbu08hvle2ynvzveuny7e&st=yfoyj82q&dl=1
+https://github.com/RobloxExploitDev/SentinelRemakeResrouces/raw/refs/heads/main/Files/Executables/Bootstrapper/SentinelBootstrapper.runtimeconfig.json
