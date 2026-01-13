@@ -1,5 +1,5 @@
 ====================================================
-             SENTINEL REMAKE v1.0.4vr
+             SENTINEL REMAKE v1.0.5vr
 ====================================================
 
                   UI  :  DJx_Devs  
@@ -21,9 +21,7 @@
 ====================================================
                  ★ CHANGELOG ★
 ----------------------------------------------------
-  ➤ V1.0.4vr 
-  ➤ Custom Script Functions! Editor`s Text will be Purple When a Valid Func Is Typed In. Only type the Func into the Editor with nothing else to use
-  ➤ First custom func is "_DJx.PiggyPageCollector" (Runs Piggy Page Collector Script.)
-  ➤ Opacity In Options
-  ➤ Auto attach   
+  ➤ V1.0.5vr 
+  ➤ Fixed Execute Not Working. If it Still Does Not, Go To Settings & Check Velcoity Files Then ReInject.
+  ➤ Slightly Changed Scripthub`s Font Design and stuff
 ====================================================
