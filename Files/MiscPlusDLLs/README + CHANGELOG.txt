@@ -1,5 +1,5 @@
 ====================================================
-             SENTINEL REMAKE v1.0.5vr
+             SENTINEL REMAKE v1.0.6vr
 ====================================================
 
                   UI  :  DJx_Devs  
@@ -21,7 +21,14 @@
 ====================================================
                  ★ CHANGELOG ★
 ----------------------------------------------------
-  ➤ V1.0.5vr 
-  ➤ Fixed Execute Not Working. If it Still Does Not, Go To Settings & Check Velcoity Files Then ReInject.
-  ➤ Slightly Changed Scripthub`s Font Design and stuff
+ ➤V1.0.6vr
+ ➤ !!!Expect this update to have bugs. I accidently deleted some stuff when writing code for new tabs so if I broke smth else then ill release update for that later
+ ➤ Tabs Now Save.
+ ➤ Added Output Tab, Replaces Old Main Tab & Shows Outputs & Stuff. Same as DJxHaxV3R Leaks.
+ ➤ In Output Tab`s Context Mneu (Right Click) You Can Clear Logs. Commands May Be Implemented Like This In The Future.
+ ➤ Removed Default Editor Start-up Text.
+ ➤ "_DJx.IY" - Executes Infinite Yield Admin
+ ➤ Added Check in Bootstrapper For "SentinelTabs" Folder Inside Bin Folder
+ ➤ Fixed Gamehub Execute Button Not Having same Checks as Main Execute Stuff
+
 ====================================================
