@@ -1,5 +1,5 @@
 ====================================================
-             SENTINEL REMAKE v1.0.6vr
+             SENTINEL REMAKE v1.0.7vr
 ====================================================
 
                   UI  :  DJx_Devs  
@@ -21,14 +21,15 @@
 ====================================================
                  ★ CHANGELOG ★
 ----------------------------------------------------
- ➤V1.0.6vr
- ➤ !!!Expect this update to have bugs. I accidently deleted some stuff when writing code for new tabs so if I broke smth else then ill release update for that later
- ➤ Tabs Now Save.
- ➤ Added Output Tab, Replaces Old Main Tab & Shows Outputs & Stuff. Same as DJxHaxV3R Leaks.
- ➤ In Output Tab`s Context Mneu (Right Click) You Can Clear Logs. Commands May Be Implemented Like This In The Future.
- ➤ Removed Default Editor Start-up Text.
- ➤ "_DJx.IY" - Executes Infinite Yield Admin
- ➤ Added Check in Bootstrapper For "SentinelTabs" Folder Inside Bin Folder
- ➤ Fixed Gamehub Execute Button Not Having same Checks as Main Execute Stuff
-
+➤ Updated Settings.ini file with new settings.
+➤ Re‑added the “Copy Selected Text” feature (previously removed in the Saving Tabs update).
+➤ Restored and rewrote several older features that were accidentally removed in the last update.
+➤ Added a Discord RPC checkbox.
+➤ Fully redesigned the Game Hub (for real this time).
+➤ Slight settings color change (very subtle).
+➤ Added outputs for the new checkbox and fixed older output issues.
+➤ “Hidden” the Reset RPC button — it still exists, just not visible. Re‑checking the checkbox will reset RPC.
+➤ Re‑added default editor text. If it’s your first time using the client and you have no tabs, it now defaults to this text.
+➤ Faster animations for Settings and Client Selection.
+➤ Settings saving is now functional (Settings.ini finally has a purpose).
 ====================================================
