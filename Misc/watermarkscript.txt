@@ -1,0 +1,12 @@
+if not getgenv().ShowSentinelWatermark then
+    getgenv().ShowSentinelWatermark = function()
+        game:GetService("StarterGui"):SetCore("SendNotification", {
+            Title = "Sentinel Remake",
+            Text = "Ran Via Velocity",
+            Icon = "rbxassetid://67"
+        })
+    end
+end
+
+
+getgenv().ShowSentinelWatermark()
