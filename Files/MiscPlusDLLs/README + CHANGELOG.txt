@@ -1,5 +1,5 @@
 ====================================================
-             SENTINEL REMAKE v1.0.8vr
+             SENTINEL REMAKE v1.0.9vr
 ====================================================
 
                   UI  :  DJx_Devs  
@@ -21,5 +21,6 @@
 ====================================================
                  ★ CHANGELOG ★
 ----------------------------------------------------
-➤ Made Custom Functions Rely On GitHub. Now A Sentinel Update Isnt Needed for new ones :3
+➤ Fixed Custom Functions Spam When no Internet
+➤ Added Watermark like Xeno`s (Notification)
 ====================================================
