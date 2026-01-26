@@ -3,7 +3,7 @@ if not getgenv().ShowSentinelWatermark then
         game:GetService("StarterGui"):SetCore("SendNotification", {
             Title = "Sentinel Remake",
             Text = "Ran Via Velocity",
-            Icon = "rbxassetid://67"
+            Icon = "rbxassetid://134236138456533"
         })
     end
 end
