@@ -1,5 +1,5 @@
 ====================================================
-             SENTINEL REMAKE v1.0.9vr
+             SENTINEL REMAKE v1.1.0vr
 ====================================================
 
                   UI  :  DJx_Devs  
@@ -16,11 +16,14 @@
   ➤ ScriptBlox    : https://ScriptBlox.com
   ➤ Discord       : https://discord.gg/qVT2yR63fq
   ➤ Sentinel Exploit
+  ➤ skib1dy for giving the template for changelogs :>
 ====================================================
 
 ====================================================
                  ★ CHANGELOG ★
 ----------------------------------------------------
-➤ Fixed Custom Functions Spam When no Internet
-➤ Added Watermark like Xeno`s (Notification)
+➤ Added Volcano Popup For Attach (Like In DJxHaxV3R Leaks)
+➤ Added Commands. Run Via the Context Menu in Output. (Commands Are Copied from DJxHaxV3R Leaks). 
+➤ Faster Gamehub Open & Close. Still bit Laggy 
+➤ Fixed Post Bootstrapper Anims and Speed Up Transition into Exec
 ====================================================
