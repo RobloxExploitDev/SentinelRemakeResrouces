@@ -1,3 +1,6 @@
+
+getgenv().CurrentExecDerivative = "Sentinel"  --For Sentinel/ DJxHax Scripts
+
 if not getgenv().ShowSentinelWatermark then
     getgenv().ShowSentinelWatermark = function()
         game:GetService("StarterGui"):SetCore("SendNotification", {
@@ -11,4 +14,3 @@ if not getgenv().SentinelWatermarkShown then
     getgenv().SentinelWatermarkShown = true
     getgenv().ShowSentinelWatermark()
 end
-
